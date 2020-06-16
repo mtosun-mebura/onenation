@@ -1,0 +1,422 @@
+# Translation of Plugins - Granular Controls For Elementor - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Granular Controls For Elementor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-02-08 11:32:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Granular Controls For Elementor - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "https://granularcontrols.com/"
+msgstr "https://granularcontrols.com/"
+
+#. Author of the plugin/theme
+msgid "Zulfikar Nore"
+msgstr "Zulfikar Nore"
+
+#. Description of the plugin/theme
+msgid "Take control of your favourite page builder's elements to design better websites and landing pages and overall better UI/UX."
+msgstr "Beheer de elementen van je favoriete pagina-builder om betere websites en landingpagina's te ontwerpen en het geeft je over het algemeen betere UI / UX."
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/norewp/granular-controls-elementor"
+msgstr "https://github.com/norewp/granular-controls-elementor"
+
+#. Plugin Name of the plugin/theme
+msgid "Granular Controls Elementor"
+msgstr "Granular Controls Elementor"
+
+#: settings/settings.php:239
+msgid "Select the template you'd like to be used as the Welcome Panel in the Admin Dashboard."
+msgstr "Selecteer de template die je wilt gebruiken als welkomstvenster in het beheerders dashboard."
+
+#: settings/settings.php:238
+msgid "Panel Template ID"
+msgstr "Paneel template ID"
+
+#: settings/settings.php:228
+msgid "Enable the custom Granular Welcome Panel in the Admin Dashboard."
+msgstr "Schakel het aangepaste Granular Welcome Panel in het Admin Dashboard in."
+
+#: settings/settings.php:227
+msgid "Welcome Panel"
+msgstr "Welkomstpaneel"
+
+#: settings/settings.php:217
+msgid "Enable use of Elementor content in the Admin Dashboard - below options will not function correctly with this setting turned off!."
+msgstr "Schakel het gebruik van Elementor-inhoud in het Admin Dashboard in. Onderstaande opties zullen niet correct werken als deze instelling is uitgeschakeld!"
+
+#: settings/settings.php:216
+msgid "Elementor In Dashboard"
+msgstr "Elementor in dashboard"
+
+#: settings/settings.php:201
+msgid "If you've changed the default exit point it might be worth changing the button text too so that you know where you'll land on exit :) "
+msgstr "Als je het standaard exit punt hebt gewijzigd, is het misschien de moeite waard om ook de knoptekst te wijzigen, zodat je weet waar je terechtkomt bij het verlaten van de pagina."
+
+#: settings/settings.php:200
+msgid "Exit Name"
+msgstr "Afsluit naam"
+
+#: settings/settings.php:195
+msgid "New Tab/Window"
+msgstr "Nieuw tabblad / venster"
+
+#: settings/settings.php:194
+msgid "Same Tab/Window"
+msgstr "Hetzelfde tabblad / venster"
+
+#: settings/settings.php:190
+msgid "Select How the exit happens. Sometimes you might want to quickly pop into the Admin area without leaving the editor<br /> then setting the Exit Point to a new tab might be ideal for your work flow :)"
+msgstr "Selecteer hoe de exit gebeurt. Soms wil je misschien snel in het Admin-gebied komen zonder de editor te verlaten <br /> en dan zou het instellen van het Exit-punt op een nieuw tabblad ideaal kunnen zijn voor je workflow :)"
+
+#: settings/settings.php:189
+msgid "Exit Target"
+msgstr "Afsluit Doel "
+
+#: settings/settings.php:183
+msgid "Admin Dashboard"
+msgstr "Admin Dashboard"
+
+#: settings/settings.php:182
+msgid "Library List"
+msgstr "Bibliotheeklijst"
+
+#: settings/settings.php:181
+msgid "Posts List"
+msgstr "Berichtenlijst"
+
+#: settings/settings.php:180
+msgid "Pages List"
+msgstr "Pagina lijst"
+
+#: settings/settings.php:179
+msgid "Edit Screen"
+msgstr "Scherm bewerken"
+
+#: settings/settings.php:175
+msgid "Select where to land when the Exit To Dashboard buttons is clicked - Default is the current post/page edit screen"
+msgstr "Selecteer waar u wilt landen wanneer u op de knoppen Sluiten naar dashboard klikt - Standaard is het huidige bewerkingsscherm voor berichten / pagina's"
+
+#: settings/settings.php:174
+msgid "Exit Point"
+msgstr "Afsluit punt"
+
+#: settings/settings.php:164
+msgid "Don't like having to go through too many hoops in order to exit the editor? There's a control for that - just enable to get a 1 exit option bar!"
+msgstr "Vind je het niet leuk om door te veel hoepels heen te gaan om de editor te verlaten? Daar is een controle voor - schakel gewoon in om een ​​optiebalk voor 1 exit te krijgen!"
+
+#: settings/settings.php:163
+msgid "Enable Exit Bar"
+msgstr "Schakel de afsluitbalk in"
+
+#: settings/settings.php:153
+msgid "Choose to load the Particles scripts and it's controls or not!"
+msgstr "Kies ervoor om de Particles-scripts en de bijbehorende besturingselementen te laden of niet!"
+
+#: settings/settings.php:142
+msgid "Choose to load the Parallax scripts and it's controls or not!"
+msgstr "Kies ervoor om de Parallax-scripts en de bijbehorende besturingselementen te laden of niet!"
+
+#: settings/settings.php:120
+msgid "Elementor - Hacking away at UI Frustrations #2 - Widget Panel By <a target=\"_blank\" href=\"https://www.facebook.com/profile.php?id=100011054383197\">David Beckwith</a>."
+msgstr "Elementor - Hack er op los bij UI Frustrations # 2 - Widget Panel Door <a target=\"_blank\" href=\"https://www.facebook.com/profile.php?id=100011054383197\"> David Beckwith </a>."
+
+#: settings/settings.php:119
+msgid "Elementor UI Hack Widget Panel"
+msgstr "Elementor UI Hack Widget Panel"
+
+#: settings/settings.php:114
+msgid "Grunge Red"
+msgstr "Grunge rood"
+
+#: settings/settings.php:113
+msgid "Red"
+msgstr "Rood"
+
+#: settings/settings.php:112
+msgid "Deep Purple"
+msgstr "Donker paars"
+
+#: settings/settings.php:111
+msgid "Deep Blue"
+msgstr "Diepblauw"
+
+#: settings/settings.php:110
+msgid "Dark Grunge"
+msgstr "Donkere Grunge"
+
+#: settings/settings.php:109
+msgid "Light Grunge"
+msgstr "Licht Grunge"
+
+#: settings/settings.php:108
+msgid "Dark"
+msgstr "Donker"
+
+#: settings/settings.php:107
+msgid "Default"
+msgstr "Standaard"
+
+#: settings/settings.php:103
+msgid "Apply a custom color skin to the editor panel. Dark skin is by <a target=\"_blank\" href=\"https://www.facebook.com/AlexIschenko2016\">Alex Ischenko</a>"
+msgstr "Pas een aangepast kleurenschema toe op het editorpaneel. Dark skin is by <a target=\"_blank\" href=\"https://www.facebook.com/AlexIschenko2016\"> ​​Alex Ischenko </a>"
+
+#: settings/settings.php:102
+msgid "Change Editor Color"
+msgstr "Verander bewerker kleur"
+
+#: settings/settings.php:90
+msgid "Remove the Elementor's dashboard widget."
+msgstr "Verwijder de dashboardwidget van Elementor."
+
+#: settings/settings.php:89
+msgid "Remove Dashboard Widget"
+msgstr "Dashboard Widget verwijderen"
+
+#: settings/settings.php:79
+msgid "Set all accordions' first tab to be closed on page load."
+msgstr "Stel in dat de eerste accordeon tab van alle accordeons moet worden gesloten bij het laden van de pagina."
+
+#: settings/settings.php:78
+msgid "Accordions Closed?"
+msgstr "Accordeons gesloten?"
+
+#: settings/settings.php:69
+msgid "Select"
+msgstr "kiezen"
+
+#: settings/settings.php:54
+msgid "Advanced Settings"
+msgstr "Geavanceerde instellingen"
+
+#: settings/settings.php:50
+msgid "Editor Options"
+msgstr "Editor-opties"
+
+#: settings/settings.php:46
+msgid "General Controls"
+msgstr "Algemene bedieningselementen"
+
+#: settings/settings.php:35 settings/settings.php:36
+msgid "Granular Controls"
+msgstr "Granular Controls"
+
+#: settings/class.settings-api.php:366
+msgid "Choose File"
+msgstr "Kies bestand"
+
+#: plugin.php:137
+msgid "Elementor Controls Elements"
+msgstr "Elementor beheer elementen"
+
+#: modules/scheduled-content/module.php:93
+msgid "Set content display schedule end date!"
+msgstr "Stel de einddatum van het schema voor tonen van de inhoud."
+
+#: modules/scheduled-content/module.php:87
+msgid "End Date"
+msgstr "Einddatum"
+
+#: modules/scheduled-content/module.php:80
+msgid "Set content display schedule start date!"
+msgstr "Stel de begindatum van het schema voor tonen van de inhoud."
+
+#: modules/scheduled-content/module.php:74
+msgid "Start Date"
+msgstr "Begin datum"
+
+#: modules/scheduled-content/module.php:67
+msgid "Switch on to schedule the contents of this column|section!."
+msgstr "Schakel in om het tonen van de inhoud van deze kolom | sectie te plannen."
+
+#: modules/scheduled-content/module.php:61
+msgid "Schedule Content?"
+msgstr "Plan het tonen van de inhoud?"
+
+#: modules/scheduled-content/module.php:52
+msgid "These controls only affect the Column|Section they are attached to!"
+msgstr "Deze besturingselementen zijn alleen van invloed op de kolom | sectie waaraan ze zijn gekoppeld!"
+
+#: modules/scheduled-content/module.php:44
+msgid "Schedule Content"
+msgstr "Inhoud plannen"
+
+#: modules/granular-particles/module.php:75
+msgid "Paste your particles JSON code here - Generate it from <a href=\"http://vincentgarreau.com/particles.js/#default\" target=\"_blank\">Here!</a>"
+msgstr "Plak hier je partituren JSON-code - Genereer het van <a href=\"http://vincentgarreau.com/particles.js/#default\" target=\"_blank\"> Hier! </a>"
+
+#: modules/granular-particles/module.php:70
+msgid "Particles JSON"
+msgstr "Deeltjes JSON"
+
+#: modules/granular-particles/module.php:63
+msgid "Set this equal to the set Minimum Height of your section - default is 400px!"
+msgstr "Stel dit gelijk aan de ingestelde minimumhoogte van uw sectie - standaard is 400 px!"
+
+#: modules/granular-particles/module.php:58
+msgid "Height"
+msgstr "Hoogte"
+
+#: modules/granular-particles/module.php:51
+msgid "Switch on to enable & access Particles options! Note that currently particles are not visible in edit/preview mode & can only be viewed on the frontend."
+msgstr "Schakel in om Particles-opties in te schakelen en te openen! Let op: momenteel zijn deeltjes niet zichtbaar in de bewerkings- / voorbeeldmodus en kunnen ze alleen via de frontend worden bekeken."
+
+#: modules/granular-particles/module.php:45 settings/settings.php:152
+msgid "Enable Particles"
+msgstr "Particles inschakelen"
+
+#: modules/granular-parallax/module.php:155
+msgid "Enable support on iOs devices."
+msgstr "Ondersteuning inschakelen op iOs-apparaten."
+
+#: modules/granular-parallax/module.php:145
+msgid "iOS Support"
+msgstr "iOS-ondersteuning"
+
+#: modules/granular-parallax/module.php:138
+msgid "Enable support on Android devices."
+msgstr "Ondersteuning inschakelen op Android-apparaten."
+
+#: modules/granular-parallax/module.php:133
+#: modules/granular-parallax/module.php:150
+msgid "Disable"
+msgstr "Uitzetten"
+
+#: modules/granular-parallax/module.php:132
+#: modules/granular-parallax/module.php:149
+msgid "Enable"
+msgstr "Inschakelen"
+
+#: modules/granular-parallax/module.php:128
+msgid "Android Support"
+msgstr "Android-ondersteuning"
+
+#: modules/granular-parallax/module.php:116
+msgid "NOTICE: These options are untested and I would love to hear your feedback on them once you have tried them!"
+msgstr "KENNISGEVING: Deze opties zijn niet getest en ik zou graag uw feedback over hen horen zodra u ze hebt geprobeerd!"
+
+#: modules/granular-parallax/module.php:106
+msgid "This should be set between -1 to a max of 2 - Decimal points must be used for fine controls."
+msgstr "Dit moet worden ingesteld tussen -1 en max. 2 - Decimale punten moeten worden gebruikt voor fijne controle."
+
+#: modules/granular-parallax/module.php:103
+msgid "Speed"
+msgstr "Snelheid"
+
+#: modules/granular-parallax/module.php:91
+msgid "NOTICE: Speed has some caveats - the higher the speed the greater the zoom on the image. Negative speed values will also switch the direction of the movement on scroll!"
+msgstr "KENNISGEVING: snelheid heeft een aantal kanttekeningen: hoe hoger de snelheid, des te groter de zoomlens op de afbeelding. Negatieve snelheidswaarden zullen ook de richting van de beweging tijdens het scrollen veranderen!"
+
+#: modules/granular-parallax/module.php:84
+msgid "Set the Parallax type needed - default is Scroll effect."
+msgstr "Stel het gewenste Parallax-type in - standaard is Scroll-effect."
+
+#: modules/granular-parallax/module.php:79
+msgid "Scale + Opacity"
+msgstr "Schaal + dekking"
+
+#: modules/granular-parallax/module.php:78
+msgid "Scale"
+msgstr "Schaal"
+
+#: modules/granular-parallax/module.php:77
+msgid "Opacity"
+msgstr "ondoorzichtigheid"
+
+#: modules/granular-parallax/module.php:76
+msgid "Scroll + Opacity"
+msgstr "Scroll + Dekking"
+
+#: modules/granular-parallax/module.php:75
+msgid "Scroll"
+msgstr "Scroll"
+
+#: modules/granular-parallax/module.php:71
+msgid "Type"
+msgstr "Type"
+
+#: modules/granular-parallax/module.php:64
+msgid "Enable to access extra controls."
+msgstr "Schakel in om toegang te krijgen tot extra besturingselementen."
+
+#: modules/granular-parallax/module.php:58 settings/settings.php:141
+msgid "Enable Parallax"
+msgstr "Parallax inschakelen"
+
+#: modules/granular-parallax/module.php:49
+msgid "NOTICE: Please note that using both Parallax & Particles together on the same section may have side effects - use with care!"
+msgstr "KENNISGEVING: Houd er rekening mee dat het tegelijkertijd gebruik van Parallax en Particles bijwerkingen kan hebben - wees voorzichtig!"
+
+#: settings/settings.php:210
+msgid "View Live Page"
+msgstr "Bekijk live pagina"
+
+#: settings/settings.php:203
+msgid "Exit To Dashboard"
+msgstr "Exit naar dashboard"
+
+#: modules/delayed-content/module.php:80
+msgid "Set delay time in in minutes i.e 1 for 1 minute or 0.20 (60*0.2) for 12 seconds - default is 0.50 (30 seconds)!"
+msgstr "Stel de vertragingstijd in minuten in, dat wil zeggen 1 voor 1 minuut of 0,20 (60 * 0,2) voor 12 seconden - standaard is 0,50 (30 seconden)!"
+
+#: modules/delayed-content/module.php:74
+msgid "Delay Time"
+msgstr "Vertragingstijd"
+
+#: modules/delayed-content/module.php:67
+msgid "Switch on to delay the contents of this column|section!."
+msgstr "Schakel in om de inhoud van deze kolom | sectie! Te vertragen !."
+
+#: modules/delayed-content/module.php:61
+msgid "Delay Content?"
+msgstr "Vertraag inhoud?"
+
+#: modules/delayed-content/module.php:52
+msgid "These controls only affect the Column/Section they are attached to!"
+msgstr "Deze knoppen hebben alleen invloed op de kolom / sectie waaraan ze zijn gekoppeld!"
+
+#: modules/delayed-content/module.php:44
+msgid "Delayed Content"
+msgstr "Vertraagde inhoud"
+
+#: includes/granular-functions.php:32
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: granular-controls-elementor.php:115
+msgid "A new version of Elementor is available. For better performance and compatibility of Elementor Custom Controls, we recommend updating to the latest version."
+msgstr "Er is een nieuwe versie van Elementor beschikbaar. Voor betere prestaties en compatibiliteit van Elementor Custom Controls, raden we aan de nieuwste versie bij te werken."
+
+#: granular-controls-elementor.php:102 granular-controls-elementor.php:116
+msgid "Update Elementor Now"
+msgstr "Update Elementor nu"
+
+#: granular-controls-elementor.php:101
+msgid "Granular Controls not working because you are using an old version of Elementor."
+msgstr "Granular Controls werkt niet omdat u een oude versie van Elementor gebruikt."
+
+#: granular-controls-elementor.php:87
+msgid "Install Elementor Now"
+msgstr "Installeer Elementor nu"
+
+#: granular-controls-elementor.php:86
+msgid "Granular Controls is not working because you need to install the Elementor plugin"
+msgstr "Granular Controls werkt niet omdat u de Elementor-plug-in moet installeren"
+
+#: granular-controls-elementor.php:78
+msgid "Activate Elementor Now"
+msgstr "Activeer Elementor nu"
+
+#: granular-controls-elementor.php:77
+msgid "Granular Controls not working because you need to activate the Elementor plugin."
+msgstr "Granular Controls werkt niet omdat je de Elementor-plug-in eerst moet activeren."
+
+#: base/module-base.php:33 base/module-base.php:44 plugin.php:44 plugin.php:55
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatin&#8217; huh?"

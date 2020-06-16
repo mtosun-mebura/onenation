@@ -1,0 +1,371 @@
+# Translation of Themes - Twenty Twelve in Dutch
+# This file is distributed under the same license as the Themes - Twenty Twelve package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-13 20:58:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - Twenty Twelve\n"
+
+#. Description of the theme
+msgid "The 2012 theme for WordPress is a fully responsive theme that looks great on any device. Features include a front page template with its own widgets, an optional display font, styling for post formats on both index and single views, and an optional no-sidebar page template. Make it yours with a custom menu, header image, and background."
+msgstr "Het 2012 thema voor WordPress is een volledig responsive thema wat er op elk apparaat goed uit ziet. Kenmerken zijn een hoofdpagina template met eigen widgets, een optioneel font, stijling voor post formats op zowel overzichts- als single pagina&#39;s en een optionele template zonder sidebar. Maak het thema je eigen door een aangepast menu, header afbeelding en achtergrond te gebruiken."
+
+#. Theme Name of the theme
+msgid "Twenty Twelve"
+msgstr "Twenty Twelve"
+
+#: functions.php:454
+msgid "Your comment is awaiting moderation. This is a preview, your comment will be visible after it has been approved."
+msgstr "Je reactie is in afwachting van moderatie. Dit is een voorbeeld, je reactie wordt zichtbaar zodra deze is goedgekeurd."
+
+#. translators: %s: The post title.
+#: comments.php:35
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Eén gedachte op &ldquo;%s&rdquo;"
+
+#: functions.php:94
+msgid "White"
+msgstr "Wit"
+
+#: functions.php:89
+msgid "Light Gray"
+msgstr "Licht grijs"
+
+#: functions.php:84
+msgid "Medium Gray"
+msgstr "Medium grijs"
+
+#: functions.php:79
+msgid "Dark Gray"
+msgstr "Donker grijs"
+
+#: functions.php:74
+msgid "Blue"
+msgstr "Blauw"
+
+#. Template Name of the theme
+msgid "Full-width Page Template, No Sidebar"
+msgstr "Volledige breedte pagina template, geen sidebar"
+
+#. Template Name of the theme
+msgid "Front Page Template"
+msgstr "Homepage sjabloon"
+
+#. translators: %s: Tag title.
+#: tag.php:24
+msgid "Tag Archives: %s"
+msgstr "Tagarchief: %s"
+
+#: single.php:25
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: single.php:24
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: search.php:46
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Helaas, geen resultaten voldeden aan de zoekcriteria. Probeer het opnieuw met andere zoekwoorden."
+
+#. translators: %s: Search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#. translators: %s: Post editor URL.
+#: index.php:49
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Klaar om je eerste bericht te publiceren? <a href=\"%s\">Hier kan je starten</a>."
+
+#: index.php:42
+msgid "No posts to display"
+msgstr "Geen berichten om te tonen"
+
+#: image.php:47
+msgid "Next &rarr;"
+msgstr "Volgende &rarr;"
+
+#: image.php:46
+msgid "&larr; Previous"
+msgstr "&larr; Vorige"
+
+#. translators: 1: Date, 2: Date, 3: Attachment URL, 4: Image width in pixels,
+#. 5: Image height in pixels, 6: Post parent permalink, 7: Post parent title,
+#. 8: Post parent title.
+#: image.php:31
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">Gepubliceerd </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> op <a href=\"%3$s\" title=\"Link naar volledige afbeelding\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Terug naar %7$s\" rel=\"gallery\">%8$s</a>."
+
+#: header.php:45
+msgid "Skip to content"
+msgstr "Spring naar inhoud"
+
+#: header.php:44
+msgid "Menu"
+msgstr "Menu"
+
+#. translators: 3: Date, 4: Author display name.
+#: functions.php:530
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Dit bericht werd geplaatst op %3$s<span class=\"by-author\"> door %4$s</span>."
+
+#. translators: 1: Category name, 3: Date, 4: Author display name.
+#: functions.php:527
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Dit bericht werd geplaatst in %1$s op %3$s<span class=\"by-author\"> door %4$s</span>."
+
+#. translators: 1: Category name, 2: Tag name, 3: Date, 4: Author display name.
+#: functions.php:524
+msgid "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Dit bericht werd geplaatst in %1$s en getagged met %2$s op %3$s<span class=\"by-author\"> door %4$s</span>."
+
+#. translators: %s: Author display name.
+#: functions.php:518
+msgid "View all posts by %s"
+msgstr "Alle berichten tonen van %s"
+
+#. translators: Used between list items, there is a space after the comma.
+#: functions.php:501 functions.php:504
+msgid ", "
+msgstr ", "
+
+#: functions.php:473
+msgid "Reply"
+msgstr "Beantwoorden"
+
+#: functions.php:452
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie is in afwachting van moderatie."
+
+#. translators: 1: Date, 2: Time.
+#: functions.php:444
+msgid "%1$s at %2$s"
+msgstr "%1$s om %2$s"
+
+#: functions.php:437
+msgid "Post author"
+msgstr "Bericht auteur"
+
+#: functions.php:421
+msgid "(Edit)"
+msgstr "(bewerken)"
+
+#: functions.php:421
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:395
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nieuwere berichten <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:394
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Oudere berichten"
+
+#: single.php:23 functions.php:393
+msgid "Post navigation"
+msgstr "Berichtnavigatie"
+
+#: functions.php:370
+msgid "Second Front Page Widget Area"
+msgstr "Tweede widgetgebied hoofdpagina"
+
+#: functions.php:360 functions.php:372
+msgid "Appears when using the optional Front Page template with a page set as Static Front Page"
+msgstr "Verschijnt wanneer de optionele voorpaginasjabloon gebruikt wordt met een pagina ingesteld als statische voorpagina"
+
+#: functions.php:358
+msgid "First Front Page Widget Area"
+msgstr "Eerste widgetgebied homepagina"
+
+#: functions.php:348
+msgid "Appears on posts and pages except the optional Front Page template, which has its own widgets"
+msgstr "Verschijnt op berichten en pagina&#39;s behalve op het optionele voorpaginasjabloon, welke eigen widgets heeft"
+
+#: functions.php:346
+msgid "Main Sidebar"
+msgstr "Hoofd sidebar"
+
+#. translators: %s: Page number.
+#: functions.php:314
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: functions.php:159
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: functions.php:152
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "aan"
+
+#: functions.php:108
+msgid "Primary Menu"
+msgstr "Primair menu"
+
+#. translators: %s: WordPress
+#: footer.php:24
+msgid "Proudly powered by %s"
+msgstr "Ondersteund door %s"
+
+#: footer.php:21
+msgid "Semantic Personal Publishing Platform"
+msgstr "'Semantic Personal Publishing Platform'"
+
+#. translators: %s: Author display name.
+#: content.php:85
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Bekijk alle berichten van %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:16
+msgid "Featured post"
+msgstr "Uitgelicht bericht"
+
+#: content-page.php:24 image.php:124 content.php:50
+msgid "Pages:"
+msgstr "Pagina&#39;s:"
+
+#: index.php:63 content-none.php:17
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "Helaas, er zijn geen resultaten gevonden. Misschien helpt zoeken je om een gerelateerd bericht te vinden."
+
+#: index.php:59 search.php:42 content-none.php:13
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: content-link.php:15
+msgid "Link"
+msgstr "Link"
+
+#: content-aside.php:29 content-status.php:43 content-image.php:26
+#: content-link.php:27 content-page.php:31 content-quote.php:26 image.php:42
+#: functions.php:464 content.php:60
+msgid "Edit"
+msgstr "Bewerken"
+
+#: content-aside.php:26 content-status.php:40 content-image.php:23
+#: content-link.php:24 content-quote.php:23 content.php:35
+msgid "% Replies"
+msgstr "% reacties"
+
+#: content-aside.php:26 content-status.php:40 content-image.php:23
+#: content-link.php:24 content-quote.php:23 content.php:35
+msgid "1 Reply"
+msgstr "1 reactie"
+
+#: content-aside.php:26 content-status.php:40 content-image.php:23
+#: content-link.php:24 content-quote.php:23 content.php:35
+msgid "Leave a reply"
+msgstr "Geef een reactie"
+
+#. translators: %s: Post title.
+#: content-aside.php:11 content-status.php:11 content-link.php:11
+#: content-quote.php:11
+msgid "Permalink to %s"
+msgstr "Permalink naar %s"
+
+#: content-aside.php:18 content-status.php:34 content-image.php:13
+#: content-link.php:17 content-quote.php:16 content.php:46
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lees verder <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: comments.php:64
+msgid "Newer Comments &rarr;"
+msgstr "Nieuwere reacties &rarr;"
+
+#: comments.php:63
+msgid "&larr; Older Comments"
+msgstr "&larr; Oudere reacties"
+
+#: comments.php:62
+msgid "Comment navigation"
+msgstr "Reactienavigatie"
+
+#. translators: %1$s: The number of comments. %2$s: The post title.
+#: comments.php:41
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s gedachte op &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s gedachten over &ldquo;%2$s&rdquo;"
+
+#. translators: %s: Category title.
+#: category.php:24
+msgid "Category Archives: %s"
+msgstr "Categoriearchief: %s"
+
+#. translators: %s: Author display name.
+#. translators: Author display name.
+#: content.php:77 author.php:74
+msgid "About %s"
+msgstr "Over %s"
+
+#. translators: Author display name.
+#: author.php:36
+msgid "Author Archives: %s"
+msgstr "Auteursarchief: %s"
+
+#: archive.php:39
+msgid "Archives"
+msgstr "Archieven"
+
+#. translators: %s: Date.
+#: archive.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: Date.
+#: archive.php:37
+msgid "Yearly Archives: %s"
+msgstr "Jaarlijks archief: %s"
+
+#. translators: %s: Date.
+#: archive.php:34
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: %s: Date.
+#: archive.php:34
+msgid "Monthly Archives: %s"
+msgstr "Maandelijks archief: %s"
+
+#. translators: %s: Date.
+#: archive.php:31
+msgid "Daily Archives: %s"
+msgstr "Dagelijks archief: %s"
+
+#: 404.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Het lijkt erop dat we niet kunnen vinden waar je naar zoekt. Misschien kun je er naar zoeken."
+
+#: 404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Dit is een beetje genant, nietwaar?."
+
+#. Author URI of the theme
+#: footer.php:21
+msgid "https://wordpress.org/"
+msgstr "https://nl.wordpress.org/"
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "het WordPressteam"
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentytwelve/"
+msgstr "https://wordpress.org/themes/twentytwelve/"

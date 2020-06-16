@@ -1,0 +1,81 @@
+{
+    "custom_css": "",
+    "thememods": {
+        "0": false,
+        "nav_menu_locations": [],
+        "osf_dev_mode": true,
+        "osf_blog_archive_style": 1,
+        "osf_starter_settings": true,
+        "custom_css_post_id": -1,
+        "osf_theme_custom_style": "",
+        "osf_theme_google_fonts": "https:\/\/fonts.googleapis.com\/css?family=Noticia+Text%3A400&#038;subset=latin-ext",
+        "osf_typography_general_heading_font": {
+            "family": ""
+        },
+        "osf_typography_general_body_font": {
+            "family": "Noticia Text",
+            "subsets": "latin-ext",
+            "fontWeight": "400"
+        },
+        "osf_typography_general_body_font_size": "13",
+        "osf_typography_general_heading_font_style": {
+            "italic": false,
+            "underline": false,
+            "fontWeight": false,
+            "uppercase": false
+        },
+        "osf_typography_page_title_font_style": {
+            "italic": false,
+            "underline": false,
+            "fontWeight": false,
+            "uppercase": true
+        },
+        "osf_typography_page_title_heading_line_height": "30",
+        "osf_typography_page_title_breadcrumb_heading_line_height": "30",
+        "osf_typography_sidebar_title_letter_spacing": "0",
+        "osf_typography_sidebar_title_padding_top": "60",
+        "osf_typography_sidebar_title_padding_bottom": "60",
+        "osf_typography_sidebar_title_margin_top": "0",
+        "osf_typography_sidebar_title_margin_bottom": "40",
+        "osf_typography_sidebar_font_style": {
+            "italic": false,
+            "underline": false,
+            "fontWeight": false,
+            "uppercase": true
+        },
+        "osf_typography_button_font_size": "14",
+        "osf_colors_general_primary": "#b34a4a",
+        "osf_colors_general_secondary": "#000000",
+        "osf_colors_general_heading": "#000000",
+        "osf_colors_general_body": "#666666",
+        "background_color": "ffffff",
+        "osf_colors_page_title_heading_color": "#000000",
+        "osf_colors_page_title_breadcrumb_color": "#666666",
+        "osf_colors_sidebar_title_color": "#555294",
+        "osf_colors_sidebar_color": "#768588",
+        "osf_layout_general_content_width_px": "1188",
+        "osf_layout_general_gutter_width": "18",
+        "osf_layout_general_content_width_padding": "9",
+        "osf_layout_general_layout_mode": "wide",
+        "osf_layout_general_layout_boxed_width": "1280",
+        "osf_layout_general_layout_boxed_offset": "30",
+        "osf_layout_page_title_style": "right-left",
+        "osf_layout_page_title_height": "315",
+        "osf_header_enable_builder": true,
+        "osf_header_builder": "header-01",
+        "osf_fixed_footer": false,
+        "osf_footer_layout": "footer-01",
+        "osf_back_to_top_footer": true,
+        "osf_typography_page_title_heading_font_size": "36",
+        "osf_colors_page_title_bg_position": "center center",
+        "osf_layout_page_title_padding_top": "15",
+        "osf_layout_page_title_padding_bottom": "15",
+        "osf_colors_page_title_breadcrumb_color_hover": "#000000",
+        "osf_colors_page_title_bg": "rgba(255,255,255,0)",
+        "osf_layout_pagination_style": "4",
+        "osf_socials": true,
+        "osf_woocommerce_product_style": "1",
+        "custom_logo": 235,
+        "osf_woocommerce_product_hover": "swap"
+    }
+}
